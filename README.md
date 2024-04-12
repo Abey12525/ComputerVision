@@ -21,7 +21,7 @@ Border Occlusion - Right-to-left
 Non-Border occlusion - left-to-right  
 
   
-### Half Occlusion _(Occlusion shown only in one direction, left-to-right)_
+### Half Occlusion *(Occlusion shown only in one direction, left-to-right)*
 
 
 We Obtain difference image by shifting the right image further to the right , and then subtracting the left
