@@ -64,10 +64,7 @@ $For\ each\ j, when \ (S_r(j))>1$
 **Asymmetric Occlusion Detection Using Geometric Constraints and Photometric Constraints:** 
   
 $For\ each\ j, when \  (S_r(j))>1$  
-&emsp;&emsp; $Set\ i_m = arg\ max\ d(S_r(j)),$  
-&emsp;&emsp; $i_o = S_r(j)-i_m$  
-&emsp;&emsp; $and \  i_n\ = arg\ min\ E(S_r(j),\ d(S_r(j)))$  
-
+&emsp;&emsp; $Set\ i_m = arg\ max\ d(S_r(j)), \ i_o = S_r(j)-i_m \  and \ \ i_n\ = arg\ min\ E(S_r(j),\ d(S_r(j)))$  
 &emsp;&emsp; $if\ i_m=i_n :$  
 &emsp;&emsp;&emsp;&emsp; $if\ i=i_m:$  
 &emsp;&emsp;&emsp;&emsp;&emsp; $O_l(i)=1$  
